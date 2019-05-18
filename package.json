@@ -1,0 +1,19 @@
+{
+  "name": "starwarsapp",
+  "version": "1.0.0",
+  "description": "\"Helps you find the characters you are looking for\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdver/StarWarsApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdver/StarWarsApp/issues"
+  },
+  "homepage": "https://github.com/jdver/StarWarsApp#readme"
+}
